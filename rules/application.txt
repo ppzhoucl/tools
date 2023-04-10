@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,WinSCP.exe
+  - PROCESS-NAME,IDMan.exe
