@@ -26,3 +26,4 @@ payload:
 	- '+.closessl.f3322.net'
 	- '+.pairdrop.net'
 	- '+.jd.com'
+	- '+.daniao.org'
