@@ -26,3 +26,4 @@ payload:
 - '+.pairdrop.net'
 - '+.jd.com'
 - '+.daniao.org'
+- '+.uoz.com'
