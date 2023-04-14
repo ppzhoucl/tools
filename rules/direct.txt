@@ -27,4 +27,4 @@ payload:
 - '+.jd.com'
 - '+.daniao.org'
 - '+.uoz.com'
-= '+.baidupcs.com'
+- '+.baidupcs.com'
