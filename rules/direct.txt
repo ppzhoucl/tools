@@ -28,3 +28,4 @@ payload:
 - '+.daniao.org'
 - '+.uoz.com'
 - '+.baidupcs.com'
+- '+.freebuf.com'
