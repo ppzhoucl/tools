@@ -1,5 +1,6 @@
 payload:
 - '+.fofa.info'
+- '+.fofa.vip'
 - '+.youdao.com'
 - '+.jianshu.com'
 - '+.aliyun.com'
