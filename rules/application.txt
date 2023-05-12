@@ -1,5 +1,3 @@
 payload:
-  - PROCESS-NAME,WinSCP.exe
   - PROCESS-NAME,IDMan.exe
-  - PROCESS-NAME,PotPlayerMini64.exe
-  - PROCESS-NAME,ssh.exe
+  - PROCESS-NAME,pot.exe
