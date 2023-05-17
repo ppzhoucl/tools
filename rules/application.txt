@@ -1,3 +1,2 @@
 payload:
-  - PROCESS-NAME,IDMan.exe
   - PROCESS-NAME,pot.exe
