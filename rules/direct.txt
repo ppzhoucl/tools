@@ -23,7 +23,6 @@ payload:
 - '+.52pojie.cn'
 - '+.kanxue.com'
 - '+.cnxdsec.cn'
-- '+.closessl.f3322.net'
 - '+.pairdrop.net'
 - '+.jd.com'
 - '+.daniao.org'
