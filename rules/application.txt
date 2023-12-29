@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,pot.exe
+  - PROCESS-NAME,tabby.exe
