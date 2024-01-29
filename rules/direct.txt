@@ -1,6 +1,4 @@
 payload:
-- '+.fofa.info'
-- '+.fofa.vip'
 - '+.youdao.com'
 - '+.jianshu.com'
 - '+.aliyun.com'
@@ -19,7 +17,6 @@ payload:
 - '+.segmentfault.com'
 - '+.gitee.com'
 - '+.cnxdsec.cn'
-- '+.nosec.org'
 - '+.52pojie.cn'
 - '+.kanxue.com'
 - '+.cnxdsec.cn'
